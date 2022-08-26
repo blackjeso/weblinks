@@ -1,5 +1,6 @@
 Linux
 https://www.howtogeek.com/815219/how-to-work-faster-in-linux-terminal/
+https://www.mediamill.de/blog/2014/03/11/aktivieren-des-bash-completion-features-auf-einem-debian-system/
 
 
 Kubernetes
@@ -14,6 +15,8 @@ Ansible
 https://vanmieghem.io/automating-proxmox-with-terraform-ansible/
 https://austinsnerdythings.com/2022/04/25/deploying-a-kubernetes-cluster-within-proxmox-using-ansible/ 
 https://gryzli.info/category/ansible/ 
+-> https://gryzli.info/2018/03/09/ansible-useful-hints/#Ansible_8211_Executing_playbook_upon_limited_number_of_hosts
+-> ...
 https://www.linuxtechi.com/configure-use-ansible-jinja2-templates/
 https://ultraconfig.com.au/blog/jinja2-a-crash-course-for-beginners/
 
@@ -28,6 +31,12 @@ https://medium.com/trabe/use-your-local-ssh-keys-inside-a-docker-container-ea1d1
 
 CI/CD
 https://cd.foundation/
+
+GitOps
+https://cloudogu.com/de/glossar/gitops/
+https://schlomo.schapiro.org/2021/02/gitops-interview-alexis-richardson.html
+-> https://www.youtube.com/watch?v=lvLqJWOixDI
+-< https://www.youtube.com/watch?v=_uDzXmbiUIg
 
 
 Agile
